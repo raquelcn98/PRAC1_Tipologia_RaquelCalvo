@@ -16,3 +16,7 @@ Los datos se obtuvieron procesando archivos HTML descargados manualmente desde e
 ## 🔗 Enlaces
 - **Dataset en Zenodo:** [https://doi.org/10.5281/zenodo.17583889](https://doi.org/10.5281/zenodo.17583889)  
 - **Vídeo de presentación:** [https://drive.google.com/drive/folders/1pleHt5NFUljfsgqsXm1mNWnFKfgr57t3](https://drive.google.com/drive/folders/1pleHt5NFUljfsgqsXm1mNWnFKfgr57t3)
+
+
+Este trabajo se distribuye bajo la licencia CC BY-NC-SA 4.0 (Attribution-NonCommercial-ShareAlike)
+
